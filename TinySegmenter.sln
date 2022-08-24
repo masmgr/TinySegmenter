@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinySegmenter", "TinySegmenter\TinySegmenter.csproj", "{807CC76A-33CE-4E57-9626-08A905798F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinySegmenterTests", "TinySegmenterTests\TinySegmenterTests.csproj", "{695477C5-C6DB-484A-814B-2C662DD004A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807CC76A-33CE-4E57-9626-08A905798F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807CC76A-33CE-4E57-9626-08A905798F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807CC76A-33CE-4E57-9626-08A905798F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807CC76A-33CE-4E57-9626-08A905798F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695477C5-C6DB-484A-814B-2C662DD004A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695477C5-C6DB-484A-814B-2C662DD004A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695477C5-C6DB-484A-814B-2C662DD004A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695477C5-C6DB-484A-814B-2C662DD004A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C44D7AD-0088-4CE7-A08A-B103FDE29F4C}
+	EndGlobalSection
+EndGlobal
